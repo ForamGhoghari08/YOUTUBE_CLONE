@@ -1,29 +1,28 @@
 # YouTube Clone App
 
-This is a YouTube Clone application built using HTML, CSS, and JavaScript. The app integrates with the YouTube Data API to display popular videos, search for videos, and show video details.
+# YouTube Clone
+
+A responsive **YouTube Clone** built with **HTML, CSS, and JavaScript**, featuring video search, API integration, and dynamic UI updates.
 
 ## Features
 
-- Display most popular videos
-- Search for videos
-- View video details
-- Responsive design
+- 🎥 Fetch and display videos using YouTube API  
+- 🔍 Search functionality for finding videos  
+- 📺 Clickable video thumbnails with embedded playback  
+- 🎨 Responsive design for all devices  
+- ⚡ Optimized user experience with smooth interactions  
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-- YouTube Data API v3
+- **HTML, CSS** – Layout and styling  
+- **JavaScript** – Dynamic content and API handling  
+- **YouTube API** – Fetching video data  
 
-## Project Structure 
+## Contact
 
-youtube-clone/
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── img/
-│   └── js/
-│       └── main.js
-├── index.html
-└── README.md
+For any questions, feel free to reach out:
+
+- **Name**: Foram Ghoghari
+- **GitHub**: [ForamGhoghari08](https://github.com/ForamGhoghari08)
+- **Email**: ghoghariforam08@gmail.com
+
